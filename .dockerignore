@@ -1,0 +1,16 @@
+node_modules
+dist
+coverage
+test
+sql
+.git
+.env
+.env.*
+!.env.example
+ca.pem
+service*.cert
+service*.key
+*.log
+Dockerfile
+.dockerignore
+CLAUDE.md
